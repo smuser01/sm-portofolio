@@ -1,2 +1,0 @@
-# sm-portofolio
-portofolio
